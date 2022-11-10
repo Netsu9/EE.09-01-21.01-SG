@@ -1,0 +1,47 @@
+body{
+    font-family: Tahoma;
+    background-color: crimson;
+}
+#baner{
+    color: white;
+    text-align: center;
+    height: 370px;
+}
+#glowny{
+    background-color: whitesmoke;
+    height: 50px;
+    clear: both;
+}
+#lewy{
+    background-color: whitesmoke;
+    height: 230px;
+    width: 70%;
+    float:left
+}
+#prawy{
+    background-color: whitesmoke;
+    width: 30%;
+    height: 230px;
+    text-align: right;
+    float:left
+}
+h2{
+    text-align: center;
+    letter-spacing: 7px;
+    text-transform: capitalize;
+}
+#cb{
+    clear: both;
+}
+.mecz{
+    color: white;
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: left;
+}
+.mecz:hover{
+    border-color: white;
+}
